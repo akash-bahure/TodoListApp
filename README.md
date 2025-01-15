@@ -46,7 +46,8 @@ The project also includes:
 Follow these steps to set up and run the project locally:  
 
 ### 1. Clone the Repository  
-git clone https://github.com/akash-bahure/TodoListApp.git 
+git clone [https://github.com/akash-bahure/TodoListApp.git ](https://github.com/akash-bahure/TodoListApp.git)
+
 cd todo-app
 
 2. Install Dependencies-
@@ -66,7 +67,5 @@ Remove tasks by clicking the "Delete" button.
 
 
 
-📄 License
-This project is open-source and available under the MIT License.
 
 
