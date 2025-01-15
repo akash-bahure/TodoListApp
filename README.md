@@ -14,7 +14,6 @@ The project also includes:
 - [Technologies Used](#technologies-used)  
 - [Setup Instructions](#setup-instructions)  
 - [Running the Application](#running-the-application)  
-- [Screenshots](#screenshots)  
 
 
 ---
@@ -50,17 +49,13 @@ Follow these steps to set up and run the project locally:
 git clone https://github.com/akash-bahure/TodoListApp.git 
 cd todo-app
 
-2. Install Dependencies
+2. Install Dependencies-
 npm install
 
-3. Set Up API Key
-Create a .env file in the root directory.
-Add the following line to the .env file:
-
-4. Start the Development Server
+3. Start the Development Server-
 npm start
   
-5. Open the Application in Your Browser
+4. Open the Application in Your Browser
 Navigate to http://localhost:3000 to view the app.
 
 🏃 Running the Application
@@ -69,12 +64,6 @@ Navigate to http://localhost:3000 to view the app.
 Add tasks using the input field and click the "Add Task" button.
 Remove tasks by clicking the "Delete" button.
 
-📸 Screenshots
-
-
-To-Do List
-
-Mobile View
 
 
 📄 License
